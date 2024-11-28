@@ -7,13 +7,13 @@ A modern, responsive chat interface for Ollama AI, built with React, TypeScript,
 
 ## Prerequisites
 
-Before installing, ensure you have Ollama installed
+
 
 
 ```
 
 ## Installation Steps
-
+Before installing, ensure you have Ollama installed
 
 ```
 
