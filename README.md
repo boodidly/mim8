@@ -13,7 +13,9 @@ A modern, responsive chat interface for Ollama AI, built with React, TypeScript,
 ```
 
 ## Installation Steps
-Before installing, ensure you have Ollama installed
+Install Ollama
+
+curl -fsSL https://ollama.com/install.sh | sh
 
 ```
 
@@ -41,9 +43,15 @@ const OLLAMA_API = import.meta.env.VITE_OLLAMA_HOST || 'http://localhost:11434';
 
 ### 5. Run the Application
 
+sudo npm audit fix
+
 ```bash
 # Start the development server
-npm run dev
+sudo npm audit fix
+
+sudo npm install
+
+sudo npm run dev --host
 ```
 
 The application will be available at `http://localhost:5173`
