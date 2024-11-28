@@ -2,7 +2,8 @@
 
 A modern, responsive chat interface for Ollama AI, built with React, TypeScript, and Tailwind CSS.
 
-![Chat Interface Preview](https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&q=80&w=2940)
+![ksnip_20241128-095728](https://github.com/user-attachments/assets/37d790a2-0274-4cd7-b967-48abdd291746)
+
 
 ## Prerequisites
 
