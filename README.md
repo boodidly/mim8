@@ -7,45 +7,22 @@ A modern, responsive chat interface for Ollama AI, built with React, TypeScript,
 
 ## Prerequisites
 
-Before installing, ensure you have the following on your Arch Linux system:
+Before installing, ensure you have Ollama installed
 
-```bash
-# Core dependencies
-sudo pacman -S base-devel git nodejs npm
+
 ```
 
 ## Installation Steps
 
-### 1. Install Ollama
 
-First, install Ollama using the AUR helper of your choice (we'll use `yay` in this example):
-
-```bash
-# Install yay if you haven't already
-git clone https://aur.archlinux.org/yay.git
-cd yay
-makepkg -si
-
-# Install Ollama
-yay -S ollama-bin
-```
-
-### 2. Start Ollama Service
-
-```bash
-# Start Ollama service
-systemctl --user enable --now ollama
-
-# Download the LLaMA2 model
-ollama pull llama2
 ```
 
 ### 3. Clone and Set Up the Chat Interface
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd ollama-chat
+git clone https://github.com/boodidly/mim8
+cd mim8
 
 # Install dependencies
 npm install
