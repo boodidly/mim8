@@ -128,7 +128,8 @@ ollama-chat/
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under my "Do whatever you want with it" License.
+Enjoy !
 
 ## Acknowledgments
 
